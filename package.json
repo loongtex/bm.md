@@ -121,7 +121,7 @@
     "morphdom": "^2.7.8",
     "motion": "^12.31.0",
     "next-themes": "^0.4.6",
-    "nitro": "npm:nitro-nightly@latest",
+    "nitro": "npm:nitro-nightly@3.0.1-20260109-100347-99691fcb",
     "ofetch": "^1.5.1",
     "react": "^19.2.4",
     "react-day-picker": "^9.13.0",
